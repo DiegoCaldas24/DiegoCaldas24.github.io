@@ -1,0 +1,122 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #bcbcbc;
+}
+
+a, ul, li{
+  gap: 20px;
+  list-style: none;
+  text-decoration: none;
+  color: black;
+  display: flex;
+}
+
+p{
+  font-size: 20px;
+  text-align: justify;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  line-height: 30px;
+}
+
+a:hover{
+  color: brown;
+  transition: 0.3s ease;
+}
+
+
+.navi{
+  margin-top: 20px;
+  position: fixed;
+  margin-left: 328px;
+  width: 50%;
+  background-color: #cfe2f3;
+  border-radius: 10px;
+}
+
+.navigator{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  img{
+    max-width: 40px;
+  }
+}
+
+/*FIN DEL NAV*/
+
+.inicio{
+  padding-top: 70px;
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  margin: auto;
+  width: 50%;
+  align-items: center;
+  .images{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    img{
+      max-width: 50%;
+      flex: 1;
+    }
+  }
+}
+
+.misionV{
+  padding-top: 60px;
+  background-color: #fff;
+  text-align: center;
+  height: 100vh;
+  margin: 0 auto;
+  p{
+    margin: auto;
+    width: 50%;
+  }
+}
+
+#imageO{
+  width: 30%;
+}
+
+
+.doctores{
+  padding-top: 70px;
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  h2{
+    padding-bottom: 20px;
+  }
+  .ten{
+    font-size: 40px;
+  }
+}
+
+
+.doctors{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 40px;
+  img{
+    max-width: 50%;
+  }
+}
+
+.doctor{
+  border: 10px solid white;
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.doctor:hover {
+  cursor: pointer;
+  transition: 0.4s ease;
+  transform: scale(1.05);
+}
+
+#compromise{
+  width: 10cm;
+}

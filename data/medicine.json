@@ -1,0 +1,274 @@
+{
+  "medicine": [
+    {
+      "id": "0",
+      "title": "Paracetamol",
+      "description": "El paracetamol alivia el dolor y baja la fiebre. El uso de paracetamol a dosis elevada puede dañar el hígado. El riesgo es mayor en pacientes que consumen alcohol de forma continua, toman varios fármacos a la vez, en ancianos y en personas con bajo peso.",
+      "uses": "Fiebre",
+      "image": "../assets/medicine/paracetamol.jpg"
+    },
+    {
+      "id": "1",
+      "title": "Dolocordralan",
+      "description": "Dolocordralan es un medicamento que contiene dos principios activos: paracetamol y diclofenaco, el paracetamol es un analgésico y antipirético, mientras que el diclofenaco es un antiinflamatorio no esteroideo (AINE).",
+      "uses": "Dolor",
+      "image": "../assets/medicine/dolocordralan.png"
+    },
+    {
+      "id": "2",
+      "title": "Ibuprofeno",
+      "description": "Antiinflamatorio no esteroideo (AINE) disponible sin receta médica y actúa inhibiendo la producción de prostaglandinas en todo el cuerpo.",
+      "uses": "Fiebre",
+      "image": "../assets/medicine/ibuprofeno.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Dexametazona",
+      "description": "La dexametasona reduce los efectos de los antidiabéticos y potencia la hipocaliemia de diferentes diuréticos y glucósidos cardiotónicos. La acción del corticoide aumenta si se combina con estrógenos y disminuye si se usa con aminoglutetimida, carbamazepina, fenitoína o rifampicina.",
+      "uses": "Fiebre",
+      "image": "../assets/medicine/dexametasona.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Vitamina C",
+      "description": "Conocida como ácido ascórbico, es un nutriente hidrosoluble que se encuentra en ciertos alimentos. En el cuerpo, actúa como antioxidante, al ayudar a proteger las células contra los daños causados por los radicales libres.",
+      "uses": "Fiebre",
+      "image": "../assets/medicine/vitamina-c.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Naproxeno",
+      "description": "Actúa inhibiendo la producción de prostaglandinas en todo el cuerpo y tiene una acción más prolongada que el ibuprofeno",
+      "uses": "Fiebre",
+      "image": "../assets/medicine/naproxeno.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Diclofenaco (Uso Externo)",
+      "description": "Actúa inhibiendo la producción de prostaglandinas en todo el cuerpo y tiene propiedades antiinflamatorias y analgésicas potentes.",
+      "uses": "Antiinflamatorio",
+      "image": "../assets/medicine/diclofenaco.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Ketorolaco",
+      "description": "Actúa inhibiendo la producción de prostaglandinas en todo el cuerpo y es un analgésico potente y se usa para el dolor a corto plazo.",
+      "uses": "Dolor",
+      "image": "../assets/medicine/ketorolaco.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Amoxicilina",
+      "description": "La amoxicilina es un antibiótico de la familia de las penicilinas que se utiliza para tratar una amplia gama de infecciones bacterianas. Actúa destruyendo las bacterias que causan la enfermedad.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/amoxicilina.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Azitromicina",
+      "description": "La azitromicina es un antibiótico de la clase de los macrólidos que se utiliza para tratar una amplia gama de infecciones bacterianas. Actúa inhibiendo la síntesis de proteínas de las bacterias, lo que impide su crecimiento y reproducción.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/azitromicina.png"
+    },
+    {
+      "id": "10",
+      "title": "Ciprofloxacino",
+      "description": "El ciprofloxacino es un antibiótico de la clase de las fluoroquinolonas que se utiliza para tratar una amplia gama de infecciones bacterianas. Actúa bloqueando una enzima esencial para la replicación del ADN de las bacterias, lo que impide su crecimiento y reproducción.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/ciprofloxacino.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Cefaclor",
+      "description": "El cefaclor, es un antibiótico de segunda generación perteneciente a la clase de las cefalosporinas. Se utiliza para tratar una amplia gama de infecciones bacterianas que afectan diferentes partes del cuerpo.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/ceflacor.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Cefalexina",
+      "description": "Antibiótico cefalosporínico de primera generación.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/cefalexina.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Levofloxacino",
+      "description": "Antibiótico fluoroquinolónico de amplio espectro.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/levofloxacino.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Metronidazol",
+      "description": "Antibiótico nitroimidazólico.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/metronidazol.png"
+    },
+    {
+      "id": "15",
+      "title": "Clindamicina",
+      "description": "Antibiótico lincosamida.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/clindamicina.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Doxiciclina",
+      "description": "Antibiótico tetraciclina.",
+      "uses": "Infeccion.",
+      "image": "../assets/medicine/doxiciclina.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Trimetoprim-sulfametoxazol",
+      "description": "Combinación de un antibiótico de la familia de las trimetoprimas y un sulfamida.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/trimetoprim-sulfametoxazol.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Gentamicina (inyectable)",
+      "description": "Antibiótico aminoglucósido.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/gentamicina.png"
+    },
+    {
+      "id": "19",
+      "title": "Vancomicina (inyectable)",
+      "description": "Antibiótico glicopéptido.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/vancomicina.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Linezolid",
+      "description": "Antibiótico oxazolidinona.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/linezolid.webp"
+    },
+    {
+      "id": "21",
+      "title": "Daptomicina",
+      "description": "Antibiótico lipoide.",
+      "uses": "Infeccion",
+      "image": "../assets/medicine/daptomicina.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Colchicina",
+      "description": "Se puede usar para prevenir o tratar un ataque de gota (inflamacion por el acido urico). Si se toma al inicio de un ataque, puede ayudar a aliviar los síntomas rápidamente y acortar la duración del ataque.",
+      "uses": "Antiinflamatorio",
+      "image": "../assets/medicine/colchicina.jpg"
+    }
+  ],
+  "doctors": [
+    {
+      "id": "0",
+      "names": "Roberto Ponce",
+      "experience": "20 años",
+      "speciality": "Cardiologo",
+      "image": "../assets/doctors/doctorOne.jpg"
+    },
+    {
+      "id": "1",
+      "names": "Steve Rogers",
+      "experience": "15 años",
+      "speciality": "Pediatra",
+      "image": "../assets/doctors/doctorTwo.jpg"
+    },
+    {
+      "id": "2",
+      "names": "Stacy Choes",
+      "experience": "10 años",
+      "speciality": "Psicologa",
+      "image": "../assets/doctors/doctorThree.jpg"
+    },
+    {
+      "id": "3",
+      "names": "Nicolle Sosa",
+      "experience": "5 años",
+      "speciality": "Anestesiologia",
+      "image": "../assets/doctors/doctor.jpg"
+    },
+    {
+      "id": "4",
+      "names": "James Cook",
+      "experience": "8 años",
+      "speciality": "Medicina Interna",
+      "image": "../assets/doctors/doctorFive.png"
+    },
+    {
+      "id": "5",
+      "names": "Boocky Stone",
+      "experience": "30 años",
+      "speciality": "Medicina General",
+      "image": "../assets/doctors/doctorSix.webp"
+    }
+  ],
+  "users": [
+    {
+      "id": "0",
+      "nombre": "Diego",
+      "apellido": "Caldas",
+      "userName": "admin",
+      "password": "password123"
+    },
+    {
+      "id": "b4d7",
+      "nombre": "Jeremy",
+      "apellido": "Aparicio",
+      "userName": "apaJ",
+      "password": "12345678"
+    },
+    {
+      "id": "44c4",
+      "nombre": "Juan",
+      "apellido": "Caldas",
+      "userName": "JCaldas",
+      "password": "142"
+    },
+    {
+      "id": "fd1f",
+      "nombre": "Juan",
+      "apellido": "Caldas",
+      "userName": "JCaldas",
+      "password": "142"
+    },
+    {
+      "id": "95c7",
+      "nombre": "Preys",
+      "apellido": "Mariñas",
+      "userName": "Ma",
+      "password": "142"
+    },
+    {
+      "id": "bfd9",
+      "nombre": "sad",
+      "apellido": "asd",
+      "userName": "d2",
+      "password": "123"
+    },
+    {
+      "id": "cce9",
+      "nombre": "asd",
+      "apellido": "sfd",
+      "userName": "ewfsd",
+      "password": "asd"
+    },
+    {
+      "id": "7d3f",
+      "nombre": "Angie",
+      "apellido": "Alvarado",
+      "userName": "AngieC",
+      "password": "angie123"
+    },
+    {
+      "id": "ffa9",
+      "nombre": "Jeremy",
+      "apellido": "Aparicio",
+      "userName": "Japaricio",
+      "password": "123456"
+    }
+  ]
+}
