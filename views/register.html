@@ -9,15 +9,16 @@
 <body>
     <form class="form-register" id="formR">
         <h4>Formulario Registro</h4>
-        <input class="controls" type="text" name="nombres" id="nombres" placeholder="Ingrese su Nombre">
-        <input class="controls" type="text" name="apellidos" id="apellidos" placeholder="Ingrese su Apellido">
-        <input class="controls" type="email" name="correo" id="userName" placeholder="Ingrese su nombre de usuario">
-        <input class="controls" type="password" name="correo" id="password" placeholder="Ingrese su Contraseña">
+        <input class="controls"  type="text" name="nombres" id="nombres" placeholder="Ingrese su Nombre" required>
+        <input class="controls" type="text" name="apellidos" id="apellidos" placeholder="Ingrese su Apellido" required>
+        <input class="controls" type="email" name="correo" id="userName" placeholder="Ingrese su nombre de usuario" required>
+        <input class="controls" type="password" name="correo" id="password" placeholder="Ingrese su Contraseña" required>
         <p>Estoy de acuerdo con <a href="#">Terminos y Condiciones</a></p>
         <button class="btn" type="submit" id="registerUser" value="Registrar"> Registrar</button>
         <p><a href="../views/login.html">¿Ya tengo Cuenta?</a></p>
         <a href="../index.html">Volver</a>
     </form>
-      <script src="../src/register.js"></script>
+    <script type= "module" src="../src/register.js"></script>
+    <script type= "module" src="../src/User.js"></script>
 </body>
 </html>
