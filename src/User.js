@@ -1,16 +1,21 @@
 export class User{
     userName;
     password;
-    us;
-    ps;
     users = []
+
+    constructor(){}
+
     addUser(userName,password) {
-        this.users.push(
-            { 
-            userName, 
-            password
-            }
-        );
+        if(!(userName === '' && password === '')){
+            this.users.push(
+                { 
+                userName, 
+                password
+                }
+            );
+            return true;
+        }
+        return false
     }
 
     getUsers(){
